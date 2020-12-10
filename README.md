@@ -34,4 +34,5 @@ GitHub Respository: https://github.com/denisequarles1/noteTaker
 
  ## Credits
 W3Schools: https://www.w3schools.com/
+
 Markup Validation Service: https://validator.w3.org/
